@@ -14,7 +14,9 @@ The reason why I had to put the shellcode after 0x200 was because of the minimal
 
 
 IMAGE_DOS_HEADER
+
 IMAGE_NT_HEADER
+
 IMAGE_SECTION_HEADER
 
 --------- 0x200 ----------
